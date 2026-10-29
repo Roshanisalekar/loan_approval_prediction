@@ -127,6 +127,6 @@ BSc IT | Data Science
 
 <img width="1920" height="1080" alt="l" src="https://github.com/user-attachments/assets/af8278e7-a943-48d1-a609-cd6dc107bf57" />
 <img width="1920" height="1080" alt="ll" src="https://github.com/user-attachments/assets/c6b9c36b-028f-4a71-b5e3-6d07917395ca" />
-<img width="34" height="34" alt="lll" src="https://github.com/user-attachments/assets/c16d9a36-ca57-45e4-b412-f66d1b0825d7" />
+<img width="1920" height="1080" alt="llll" src="https://github.com/user-attachments/assets/412225ba-f167-41e3-bedc-e98a007b73ff" />
 
 
